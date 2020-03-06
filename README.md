@@ -8,13 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-You need to have Node >= 8.10 and npm >= 5.6 on your machine. Run the following commands in terminal. Homebrew is being used to install Node and npm.
-
-```
-ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)
-brew update
-brew install node
-```
+You need to have Node >= 8.10 and npm >= 5.6 on your machine: https://nodejs.org/en/
 
 ### Installing
 
